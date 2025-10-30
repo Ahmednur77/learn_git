@@ -1,12 +1,25 @@
-# Learn Git Project
 
-This repository contains my Git practice for the Gomycode Git checkpoint.
+# Learn Git Project 🧠
 
-## What I Learned
-- Creating and managing files using Git  
-- Using git add, git commit, git log, and git push  
-- Deleting and restoring files  
-- Adding screenshots and working with repositories  
+This repository was created as part of my Gomycode Git checkpoint.  
+It demonstrates my understanding of basic Git commands and workflow.
 
-## Author
-Ahmednur77
+## 🚀 What I Practiced
+- Creating files (third.txt, fourth.txt)
+- Initializing a Git repository
+- Adding and committing changes
+- Removing and restoring files
+- Pushing commits to GitHub
+- Managing screenshots and project folders
+
+## 🧾 Technologies Used
+- Git
+- GitHub
+- VS Code
+- PowerShell / Command Line
+
+## 👤 Author
+*Ahmednur77*
+
+---
+> “Small progress every day adds up to big results.”
